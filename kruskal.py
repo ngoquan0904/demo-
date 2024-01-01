@@ -1,3 +1,4 @@
+#hello
 def inputEdges():
     for i in range(edges):
         u, v, l = input().split()
